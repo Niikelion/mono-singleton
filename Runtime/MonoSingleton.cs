@@ -32,7 +32,7 @@ namespace Singletons
             if (Instance != null)
             {
                 if (!OnDuplicate(Instance))
-                    Object.Destroy(thisT);
+                    Object.Destroy(thisT.gameObject);
                 
                 return;
             }
