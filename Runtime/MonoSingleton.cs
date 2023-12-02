@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Singletons
 {
     [PublicAPI]
-    public class MonoSingleton<T> where T: MonoBehaviour
+    public class MonoSingleton<T>: MonoBehaviour where T: MonoBehaviour
     {
         private T thisT;
         

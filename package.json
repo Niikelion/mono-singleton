@@ -1,6 +1,6 @@
 {
     "name": "niikelion.utils.singletons",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "displayName": "Mono Singleton",
     "description": "Small utility for creating singletons and MonoBehaviour partial singletons.",
     "unity": "2022.1",
