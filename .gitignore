@@ -1,4 +1,3 @@
 .idea
-LICENSE.meta
-package.meta
-.gitignore.meta
+LICENSE.md.meta
+package.json.meta
