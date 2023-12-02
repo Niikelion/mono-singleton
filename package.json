@@ -1,0 +1,17 @@
+{
+    "name": "niikelion.utils.singletons",
+    "version": "0.0.1",
+    "displayName": "Mono Singleton",
+    "description": "Small utility for creating singletons and MonoBehaviour partial singletons.",
+    "unity": "2022.1",
+    "keywords": [
+      "utils", "singleton"
+    ],
+    "author": {
+      "name": "Michał Osiński",
+      "email": "nicraft@tlen.pl"
+    },
+    "publishConfig": {
+      "registry": "https://package.openupm.com"
+    }
+  }
